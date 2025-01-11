@@ -1,5 +1,11 @@
 // ФУНКЦИИ
 
+
+//СТРОКИ https://learn.javascript.ru/string
+// ЧИСЛА https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Number 
+
+
+
 let num = 20; //глобальная функция, может использоваться внутри функции
 
 function showFirstMessage(text) {
